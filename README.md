@@ -1,1 +1,1 @@
-`cat /flag.txt`
+echo `cat /flag.txt`
