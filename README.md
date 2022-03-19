@@ -1,1 +1,1 @@
-echo `tac /flag.txt`
+/39
